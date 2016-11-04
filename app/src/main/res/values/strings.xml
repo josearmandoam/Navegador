@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navegador</string>
+    <string name="texto_busqueda">Buscar o escribir URL</string>
+    <string name="ir">Ir</string>
+    <string name="historial">Historial</string>
+    <string name="salir">Salir</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="errorHistorial">Para ver el historial rote el telefono</string>
+    <string name="errorFavoritos">Para ver Favoritos rote el telefono</string>
+    <string name="borrarHistorial">Se ha borrado el historial</string>
+    <string name="favorito">Se ha añadido la página a Favoritos</string>
+</resources>

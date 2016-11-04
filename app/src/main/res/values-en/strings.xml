@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="texto_busqueda">Write or search URL</string>
+    <string name="ir">Go</string>
+    <string name="historial">Browsing history</string>
+    <string name="salir">Exit</string>
+    <string name="favoritos">Favorites</string>
+    <string name="errorHistorial">To see the Browsing history rotate the phone</string>
+    <string name="errorFavoritos">To see the Favorites pages rotate the phone</string>
+    <string name="borrarHistorial">Browsing history deleted</string>
+    <string name="favorito">The page was added to Favorites</string>
+
+</resources>
